@@ -1,0 +1,8 @@
+
+---
+
+### `requirements.txt`
+```txt
+kubernetes
+prometheus-api-client
+python-dotenv
